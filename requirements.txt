@@ -1,0 +1,5 @@
+python fundamentals
+psycopg2
+PostgeSQL
+pandas
+streamlit
