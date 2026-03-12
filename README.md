@@ -1,14 +1,24 @@
 # Smart Inventory and Billing System
 
-This project is built using Python, PostgreSQL and Streamlit.
+A Python-based inventory and billing management system with a web interface.
 
-Features:
+## Features
 - Manage products
 - Manage customers
-- Generate sales bills
-- Store data in database
+- Record sales
+- Generate billing data
+- Store data in PostgreSQL database
 
-Technologies:
-Python
-PostgreSQL
-Streamlit
+## Technologies Used
+- Python
+- PostgreSQL
+- Streamlit
+- Pandas
+
+## How to Run
+
+1. Install requirements
+pip install -r requirements.txt
+
+2. Run the application
+streamlit run app.py
